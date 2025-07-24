@@ -1,6 +1,3 @@
-# Agriaura-smart_agriculture
-A smart agriculture web project promoting tech-driven farming and sustainability.
-
 # Agriaura 🌿
 
 **Agriaura** is a smart agriculture-themed web project designed for a hackathon. It aims to connect technology with farming by providing a platform that promotes awareness, innovation, and sustainable practices in agriculture.
